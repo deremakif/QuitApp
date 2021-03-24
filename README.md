@@ -8,3 +8,7 @@ This project is an example of recreational programming. A mobile app for people 
 
 - [Recreational Programming](https://www.quora.com/What-is-recreational-programming)
 
+
+![ScreenShot](https://github.com/deremakif/QuitApp/blob/main/assets/ScreenShot.png?raw=true)
+
+
